@@ -1,0 +1,8 @@
+F:\Dev\AKKA\AKKA\bin\Debug\netcoreapp2.0\AKKA.deps.json
+F:\Dev\AKKA\AKKA\bin\Debug\netcoreapp2.0\AKKA.runtimeconfig.json
+F:\Dev\AKKA\AKKA\bin\Debug\netcoreapp2.0\AKKA.runtimeconfig.dev.json
+F:\Dev\AKKA\AKKA\bin\Debug\netcoreapp2.0\AKKA.dll
+F:\Dev\AKKA\AKKA\obj\Debug\netcoreapp2.0\AKKA.csprojResolveAssemblyReference.cache
+F:\Dev\AKKA\AKKA\obj\Debug\netcoreapp2.0\AKKA.csproj.CoreCompileInputs.cache
+F:\Dev\AKKA\AKKA\obj\Debug\netcoreapp2.0\AKKA.AssemblyInfoInputs.cache
+F:\Dev\AKKA\AKKA\obj\Debug\netcoreapp2.0\AKKA.AssemblyInfo.cs

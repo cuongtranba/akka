@@ -1,0 +1,38 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "c0104963129149ad748bf7feab62283bd3a848fb"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "AKKA/1.0.0": {
+        "dependencies": {
+          "JSON": "1.0.1"
+        },
+        "runtime": {
+          "AKKA.dll": {}
+        }
+      },
+      "JSON/1.0.1": {
+        "runtime": {
+          "lib/net40/Json.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AKKA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JSON/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-n387Xh1oDWolCIVb2oMV1bWkEKBBk5iLkMuaiAQuLUaAZwowyym2s/6b/hFnmS5J3bzINmZ7I2WEbBAZMQd2dg==",
+      "path": "json/1.0.1",
+      "hashPath": "json.1.0.1.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+F:\Dev\AKKA\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache
+F:\Dev\AKKA\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
+F:\Dev\AKKA\Example\bin\Debug\Example.exe.config
+F:\Dev\AKKA\Example\bin\Debug\Example.exe
+F:\Dev\AKKA\Example\bin\Debug\Example.pdb
+F:\Dev\AKKA\Example\bin\Debug\Akka.dll
+F:\Dev\AKKA\Example\bin\Debug\Newtonsoft.Json.dll
+F:\Dev\AKKA\Example\bin\Debug\System.Collections.Immutable.dll
+F:\Dev\AKKA\Example\bin\Debug\Akka.xml
+F:\Dev\AKKA\Example\bin\Debug\Newtonsoft.Json.xml
+F:\Dev\AKKA\Example\bin\Debug\System.Collections.Immutable.xml
+F:\Dev\AKKA\Example\obj\Debug\Example.exe
+F:\Dev\AKKA\Example\obj\Debug\Example.pdb
