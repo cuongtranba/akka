@@ -8,13 +8,11 @@ namespace MovieStreaming.Actors
     {
         public PlayBackActor()
         {
-            Receive<PlayMovieMessage>(HandlePlayMovieMessage, message => message.UserId == 1);
+            Receive<PlayMovieMessage>(HandlePlayMovieMessage,null);
         }
 
         protected override void PreStart() => Console.WriteLine("Creating a PlaybackActor");
         protected override void PostStop() => Console.WriteLine("PlayBackActor Stop");
-        
-
 
         private void HandlePlayMovieMessage(PlayMovieMessage message)
         {
