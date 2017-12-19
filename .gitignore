@@ -3,3 +3,7 @@
 ################################################################################
 
 /Example/bin/Debug
+/.vs/AKKA/v15/Server/sqlite3
+/MovieStreaming/bin/Debug
+/MovieStreaming/obj/Debug
+/packages
