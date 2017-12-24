@@ -44,9 +44,6 @@
     <Reference Include="Akka.TestKit.Xunit2, Version=1.3.2.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Akka.TestKit.Xunit2.1.3.2\lib\net45\Akka.TestKit.Xunit2.dll</HintPath>
     </Reference>
-    <Reference Include="ColoredConsole, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\ColoredConsole.0.5.0\lib\net45\ColoredConsole.dll</HintPath>
-    </Reference>
     <Reference Include="FluentAssertions, Version=4.19.4.0, Culture=neutral, PublicKeyToken=33f2691a05b67b6a, processorArchitecture=MSIL">
       <HintPath>..\packages\FluentAssertions.4.19.4\lib\net45\FluentAssertions.dll</HintPath>
     </Reference>
@@ -83,8 +80,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Actors\MoviePlayCounterActor.cs" />
     <Compile Include="Actors\PlayBackActor.cs" />
+    <Compile Include="Actors\PlayBackStatisticsActor.cs" />
     <Compile Include="Actors\UserActor.cs" />
+    <Compile Include="Actors\UserCoordinatorActor.cs" />
+    <Compile Include="ColorConsole.cs" />
+    <Compile Include="Messages\IncrementPlayCountMessage.cs" />
     <Compile Include="Messages\PlayMovieMessage.cs" />
     <Compile Include="Messages\StopMovieMessage.cs" />
     <Compile Include="Program.cs" />
