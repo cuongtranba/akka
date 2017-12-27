@@ -86,6 +86,8 @@
     <Compile Include="Actors\UserActor.cs" />
     <Compile Include="Actors\UserCoordinatorActor.cs" />
     <Compile Include="ColorConsole.cs" />
+    <Compile Include="Exceptions\SimulatedCorruptStateException.cs" />
+    <Compile Include="Exceptions\SimulatedTerribleMovieException.cs" />
     <Compile Include="Messages\IncrementPlayCountMessage.cs" />
     <Compile Include="Messages\PlayMovieMessage.cs" />
     <Compile Include="Messages\StopMovieMessage.cs" />
